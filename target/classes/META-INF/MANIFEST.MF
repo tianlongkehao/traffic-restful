@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: traffic-parent
+Implementation-Version: 1.0.0
+Built-By: Anchor
+Implementation-Vendor-Id: com.uniview.imos.bigdata
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/traffic-pare
+ nt/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
